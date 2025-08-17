@@ -1,0 +1,102 @@
+================================================================================
+LITVAR ANALYSIS REPORT - JOURNAL IMPACT FACTOR TIMELINE
+================================================================================
+Analysis Date: 2025-08-17 14:32:36
+
+OVERALL STATISTICS:
+  Total variants analyzed: 3436
+  Total publications found: 44739
+  Publications causing classification changes: 10912
+
+TOP 10 REPRESENTATIVE VARIANTS:
+
+  1. Variant 17677 (rs80357906):
+     Classification: Pathogenic → Unknown
+     Total publications: 452
+     Publications causing change: 18
+     Key publications causing change:
+       - PMID 7894492: Nature genetics (IF: 53.8)
+       - PMID 8644703: American journal of human genetics (IF: 17.2)
+       - PMID 10788334: American journal of human genetics (IF: 17.2)
+
+  2. Variant 17661 (rs28897672):
+     Classification: Conflicting interpretations → Unknown
+     Total publications: 524
+     Publications causing change: 4
+     Key publications causing change:
+       - PMID 10788334: American journal of human genetics (IF: 17.2)
+       - PMID 7795652: Nature genetics (IF: 53.8)
+       - PMID 15024741: Human mutation (IF: 7.9)
+
+  3. Variant 54360 (rs28897672):
+     Classification: Conflicting interpretations → Likely pathogenic
+     Total publications: 522
+     Publications causing change: 1
+     Key publications causing change:
+       - PMID 26467025: Human mutation (IF: 7.9)
+
+  4. Variant 37613 (rs1799966):
+     Classification: Conflicting interpretations → Likely benign
+     Total publications: 329
+     Publications causing change: 16
+     Key publications causing change:
+       - PMID 26183948: BMC cancer (IF: 6.8)
+       - PMID 26092435: Human genomics (IF: 8.8)
+       - PMID 21447777: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology (IF: 2.0)
+
+  5. Variant 54618 (rs799917):
+     Classification: Conflicting interpretations → Likely benign
+     Total publications: 368
+     Publications causing change: 4
+     Key publications causing change:
+       - PMID 24244370: PloS one (IF: 6.0)
+       - PMID 31911673: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+       - PMID 25896959: Clinica chimica acta; international journal of clinical chemistry (IF: 3.0)
+
+  6. Variant 37421 (rs80357084):
+     Classification: Conflicting interpretations → Likely pathogenic
+     Total publications: 90
+     Publications causing change: 35
+     Key publications causing change:
+       - PMID 28440963: Cancer science (IF: 10.4)
+       - PMID 25802882: Molecular genetics & genomic medicine (IF: 4.4)
+       - PMID 29215753: Cancer science (IF: 10.4)
+
+  7. Variant 41812 (rs799917):
+     Classification: Conflicting interpretations → Unknown
+     Total publications: 367
+     Publications causing change: 2
+     Key publications causing change:
+       - PMID 24728327: PloS one (IF: 6.0)
+       - PMID 22703879: American journal of human genetics (IF: 17.2)
+
+  8. Variant 91594 (rs799917):
+     Classification: Conflicting interpretations → Uncertain significance
+     Total publications: 367
+     Publications causing change: 2
+     Key publications causing change:
+       - PMID 31911673: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+       - PMID 25741868: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+
+  9. Variant 55397 (rs41293459):
+     Classification: Conflicting interpretations → Likely pathogenic
+     Total publications: 164
+     Publications causing change: 18
+     Key publications causing change:
+       - PMID 20455026: Familial cancer (IF: 5.1)
+       - PMID 24504028: Scientific reports (IF: 7.5)
+       - PMID 11157798: Human molecular genetics (IF: 8.9)
+
+  10. Variant 531339 (rs16942):
+     Classification: Conflicting interpretations → Benign
+     Total publications: 282
+     Publications causing change: 3
+     Key publications causing change:
+       - PMID 31911673: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+       - PMID 25741868: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+       - PMID 25741868: Genetics in medicine : official journal of the American College of Medical Genetics (IF: 4.0)
+
+JOURNAL IMPACT FACTOR DISTRIBUTION:
+  Average impact factor: 13.32
+  Median impact factor: 6.00
+  Max impact factor: 642.90
